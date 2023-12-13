@@ -5,9 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+Output
+![Uploading ceramic.png…]()
+
 
 ### npm install --force
-you ca install node module
+you can install node module
 
 ### `npm start`
 
