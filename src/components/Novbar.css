@@ -1,0 +1,52 @@
+.active{
+    
+}
+nav ul li a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    border-radius: 0.5rem;
+
+}
+nav ul li a:hover{
+color: #FF1493;
+}
+nav {
+  
+  height: 70px;
+  flex-direction: column-reverse;
+   align-items: center;
+    background-color: #0C2340;
+    color: white;
+    font-style: normal;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav ul li{
+    list-style: none;
+    font-weight: 600;
+    text-align: center;
+}
+
+nav .logo{
+    position: relative;
+    left: 780px;
+    float:left;
+    margin-top:16px;
+    cursor: pointer;
+}
+nav .call{
+    position: relative;
+    left: 750px;
+    content: "|";
+}
+nav .logo{
+    
+    position: relative;
+    left: 755px;
+}
+

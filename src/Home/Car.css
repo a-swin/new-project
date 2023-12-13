@@ -1,0 +1,44 @@
+.flex-cont{
+    margin: 60px;
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+.flex-bo1{
+   cursor: pointer;
+    width: 600px;
+    height: 400px;
+    background: url(../Image/cars.jpg);
+    font-size: 20px;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 200px;
+    border: snow black ;
+    margin: 10px;
+}
+.flex-bo2{
+    cursor: pointer;
+    width: 600px;
+    height: 400px;
+    background: url(../Image/bike.jpg);
+    font-size: 20px;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 200px;
+    
+    margin: 10px;
+}
+.flex-bo3{
+    cursor: pointer;
+    width: 600px;
+    height: 400px;
+    background: url(../Image/car5.jpg);
+    font-size: 20px;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 200px;
+    margin: 10px;
+}

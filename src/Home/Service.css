@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+    box-sizing: border-box;
+}
+.flex-container{
+    margin: 30px;
+    width: 100%;
+    height: auto;
+    display: flex;
+
+}
+.flex-box{
+    cursor: pointer;
+    width: 400px;
+    height: 200px;
+    background: url(../Image/wash1.jpg);
+    font-size: 20px;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 200px;
+    border-radius: 20px;
+    margin: 10px;
+    
+background-color: rgba(14, 13, 13, 0.77);
+
+    
+}
+.flex-boxss{
+    cursor: pointer;
+    width: 400px;
+    height: 200px;
+    background: url(../Image/clean.jpg);
+    font-size: 20px;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 200px;
+    border-radius: 20px;
+    margin: 10px;
+    background-color: rgba(14, 13, 13, 0.77);
+}
+.flex-box1{
+    cursor: pointer;
+    width: 400px;
+    height: 200px;
+    background: url(../Image/paint.jpg);
+    font-size: 20px;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 200px;
+    border-radius: 20px;
+    margin: 10px;
+    background-color: rgba(14, 13, 13, 0.77);
+}
+.flex-box2{
+    cursor: pointer;
+    width: 400px;
+    height: 200px;
+    background: url(../Image/palice.jpg);
+    font-size: 20px;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 200px;
+    border-radius: 20px;
+    margin: 10px;
+}
+.flex-boxs{
+    cursor: pointer;
+    width: 400px;
+    height: 200px;
+    background: url(../Image/cremic.jpg);
+    font-size: 20px;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 200px;
+    border-radius: 20px;
+    margin: 10px;
+}
+.flex-boxs1{
+    cursor: pointer;
+    width: 400px;
+    height: 200px;
+    background: url(../Image/paint1.jpg);
+    font-size: 20px;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 200px;
+    border-radius: 20px;
+    margin: 10px;
+}
+.flex-boxs2{
+    cursor: pointer;
+    width: 400px;
+    height: 200px;
+    background: url(../Image/heat.jpg);
+    font-size: 20px;
+    color: white;
+    bottom: 5px;
+    align-items: center;
+    justify-content: flex-end;
+    line-height: 200px;
+    border-radius: 20px;
+    margin: 10px;
+}
+.flex-boxs3{
+    cursor: pointer;
+    width: 400px;
+    height: 200px;
+    background: url(../Image/paintcar.jpg);
+    font-size: 20px;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 200px;
+    border-radius: 20px;
+    margin: 10px;
+}
+.contain{
+    margin: 30px;
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+.flex{
+    margin: 30px;
+    width: 100%;
+    height: auto;
+    display: flex; 
+}
+.image2{
+    cursor: pointer;
+    width: 400px;
+    height: 200px;
+    background: url(../Image/white.jfif);
+    background-color: rgba(14, 13, 13, 0.77);
+    font-size: 20px;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 200px;
+    border-radius: 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+.image{
+    width: 400px;
+    height: 200px;
+    background: url(../Image/wrap1.jpg);
+    font-size: 20px;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 200px;
+    border-radius: 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+.image1{
+    width: 400px;
+    height: 200px;
+    background: url(../Image/cuss.jpg);
+    font-size: 20px;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 200px;
+    border-radius: 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+.absolute{
+    margin-top: 100px;
+   
+}
